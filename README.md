@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Victor Hugo
 
-- 🔭 Hoje sou um iniciante na programação
-- 🌱 Estudante
+- 🔭 Iniciante em programação, explorando o mundo do desenvolvimento.  
+- 🌱 Estudante de graduação em **Ciência da Computação**  
+- 💡 Interessado em **web development/ mobile / data science / IA / cyber-security**  
 
 <div>
 <a href="https://github.com/VictorHug01">
